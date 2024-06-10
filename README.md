@@ -1,9 +1,12 @@
 # Descrição do projeto
 
-O objetivo do projeto é construir uma interface via Gradio na qual seja possível o envio de arquivos em PDF contento informações a respeito de gastos pessoas e que através de técnica como Text Embeddings e com Generative AI o usuário possa obter informações relevantes a respeitos dos dados usados como input.
+O objetivo do projeto é realizar uma itensa Exploração de dados - Exploratory Data Analysis - EDA
+
+## Inspiration
+Os "inshigts" obtidos através da análises de interações das pessoas com os aplicativos disponíves na Google Play Store são altamente relevantes para aquelas empresas que buscam não apenas atributos para seus novos Apps como também direcionar seus esforços e obter um posicionamento estratégico.
 
 ## Etapas
-![image](https://github.com/JanielS/Store_App_EDA/blob/main/Images/Diagram_App_store.png)<br>
+![image](https://github.com/JanielS/Store_App_EDA/blob/main/Images/Diagram_AppStore.png)<br>
 *fonte: autor*
 <br>
 <br>
