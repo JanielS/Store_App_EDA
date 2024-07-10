@@ -1,8 +1,9 @@
-# Descrição do projeto
+# Google play Store 
 
 O objetivo do projeto é realizar uma Exploração de dados (EDA) com base na metodologia Knowledge Discovery in Databases (KDD).
 
-[Clique aqui](https://medium.com/@cgawande12/exploratory-data-analysis-eda-on-amazons-popular-books-a-dive-into-the-kdd-methodology-cd01da2b9325) para ter conhecer mais a metodologia KDD
+[Clique aqui](https://github.com/JanielS/Store_App_EDA/blob/main/AppStore_EDA.ipynb) para ter acesso ao código.
+[Clique aqui](https://medium.com/@cgawande12/exploratory-data-analysis-eda-on-amazons-popular-books-a-dive-into-the-kdd-methodology-cd01da2b9325) para conhecer mais a metodologia KDD
 
 ## Inspiration
 Os "inshigts" obtidos através da análises de interações das pessoas com os aplicativos disponíves na Google Play Store são altamente relevantes para aquelas empresas que buscam não apenas atributos para seus novos Apps como também direcionar seus esforços e obter um posicionamento estratégico.
